@@ -1,3 +1,7 @@
+# Repo Owner
+
+@ITZ-ZAID
+
 # Telethon-Music
 
 # String Session (Telethon)

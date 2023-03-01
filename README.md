@@ -2,16 +2,11 @@
 
 🌸 [REPO](github.com/itz-zaid/telethon-music) OWNER [@ITZ-ZAID 🥀](github.com/itz-zaid)
 
-# lethon-Music
 
 
-<p align="center"><a href="https://youtu.be/IDDyldUHOKo"> <img src="https://img.shields.io/badge/Releasehub%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
-<p align="center">Railway </p>
 
-<p align="center"><a href="https://youtu.be/Uzof6djzD-M"> <img src="https://img.shields.io/badge/Railway%20Deploy-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p> 
 
-<p align="center">Scalingo </p>
 
 
 

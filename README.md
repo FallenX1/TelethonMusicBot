@@ -1,6 +1,6 @@
 # ATTENDANCE
 
-🌸 [REPO](github.com/itz-zaid/telethon-music) OWNER [@ITZ-ZAID 🥀](github.com/itz-zaid)
+🌸 [REPO](https://github.com/itz-zaid/telethon-music) OWNER [@ITZ-ZAID 🥀](https://github.com/itz-zaid)
 
 
 

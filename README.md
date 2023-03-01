@@ -1,6 +1,6 @@
-# Repo Owner
+# ATTENDANCE PLS
 
-@ITZ-ZAID
+REPO OWNER [@ITZ-ZAID](github.com/itz-zaid)
 
 # Telethon-Music
 
